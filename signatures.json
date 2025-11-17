@@ -1143,6 +1143,14 @@
       "created_at": "2025-10-24T14:41:29Z",
       "repoId": 674367771,
       "pullRequestNo": 1999
+    },
+    {
+      "name": "strikoder",
+      "id": 71812454,
+      "comment_id": 3542740849,
+      "created_at": "2025-11-17T16:19:24Z",
+      "repoId": 674367771,
+      "pullRequestNo": 2063
     }
   ]
 }
